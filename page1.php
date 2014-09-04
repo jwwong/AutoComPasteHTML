@@ -24,36 +24,31 @@ setcookie("user", $user, time()+(3600*3)); // time of expiration is 3 hours
 ?>
 <html>
 <head>
-    <title>Experiment Run Template 1</title>
+    <title>AutoComPaste/XWindow Experiment</title>
 </head>
 <body>
 <div>
-    <p>
-        This part of the interface collects whatever pre-test information (ie demographic and all) that you need.
-    </p>
-
+    <p>Pre-Questionnaire</p>
 </div>
 <div>
-    <p>Please put all information needed for: <?php echo $user; ?> </p>
+    <p> Hello Participant <?php echo $user; ?>, please fill in the following form:</p>
     <form action="page2.php" method="post">
-        <span>Information 1</span><input type="text" name="var1" /><br/>
-        <span>Information 2</span><br/>
-        <input type="radio" name="var2" value="1">Option 1<br/>
-        <input type="radio" name="var2" value="2">Option 2<br/>
-        <span>Information 3</span><br/>
-        <input type="checkbox" name="var3" value="a">Option 1<br/>
-        <input type="checkbox" name="var3" value="b">Option 2<br/>
-        <span>Information 4</span><br/>
-        <select name="var4">
-            <option value="1a">Option A</option>
-            <option value="2b">Option B</option>
-            <option value="3c">Option C</option>
-            <option value="4d">Option D</option>
-        </select><br/>
-        <span>Information 5</span>
-        <textarea name="var5" rows="10" cols="30">
-This is a information type essay
-        </textarea><br/>
+        <span>Name</span><input type="text" name="var1" /><br/>
+        <span>Age</span><input type="number" name="var2" /><br/>
+        <span>Gender</span><br/>
+        <input type="radio" name="var3" value="1">Male<br/>
+        <input type="radio" name="var3" value="2">Female<br/>
+        <span>Occupation</span><input type="text" name="var4" /><br/>
+        <span>Frequency of computer usage</span><br/>
+        <input type="radio" name="var5" value="1">None<br/>
+        <input type="radio" name="var5" value="2">Weekly<br/>
+        <input type="radio" name="var5" value="3">Every few days<br/>
+        <input type="radio" name="var5" value="4">Daily<br/>
+        <span>Frequency of text editor usage</span><br/>
+        <input type="radio" name="var6" value="1">None<br/>
+        <input type="radio" name="var6" value="2">Weekly<br/>
+        <input type="radio" name="var6" value="3">Every few days<br/>
+        <input type="radio" name="var6" value="2">Daily<br/>
         <input id="submit" type="submit" value="submit">
     </form>
 </div>

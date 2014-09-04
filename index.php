@@ -10,17 +10,21 @@
 ?>
 <html>
 <head>
-    <title>Experiment Run Template 1</title>
+    <title>AutoComPaste/XWindow Experiment</title>
 </head>
 <body>
     <div>
         <p>
-            The startup interface provides the basic instructions to your participants,
-            and also collect input from the participant/experimenter
-            the participant ID so that you can generate the correct data log for a particular experiment session.
+            Welcome to the evaluation experiment for AutoComPaste/XWindow!
+            In this experiment, you will be required to complete a series of copy-and-paste tasks using both interfaces AutoComPaste and XWindow.
+            Each task will require you to:
+            <ul>
+                <li>copy-and-paste text in different levels of granularity - phrase, sentence, paragraph.</li>
+                <li>copy-and-paste text with one or several reference windows in view</li>
+            </ul> 
         </p>
         <p>
-            This is a template. Please write your participant number ID given by your experimenter:
+            First, please fill in your given participant ID:
         </p>
     </div>
     <div>

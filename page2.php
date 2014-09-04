@@ -21,7 +21,7 @@ if (!empty($_POST)) {
     /* Make sure that code below does not get executed when we redirect. */
     exit;
 }
-
+// cookie null check
 if (!isset($_COOKIE["user"])){
     $message = "Please use a username";
     header("Location: index.php?message=".$message);
@@ -32,31 +32,26 @@ $user = $_COOKIE["user"];
 
 // SET FOR BLOCKS HERE!!!
 
-$max_blocks = 2;
+$max_blocks = 7;
 
 setcookie("max_blocks", strval($max_blocks), time()+(3600*3));
-
 setcookie("block", strval(0), time()+(3600*3));
-
 
 ?>
 
 <html>
 <head>
-    <title>Experiment Run Template 1</title>
+    <title>AutoComPaste/XWindow Experiment</title>
 </head>
 <body>
 <div>
     <p>
-This part of the interface makes you choose which Interface do you want to do first. You can also modify this to make it automatic (i.e. depending on the id number, they would do ACP first
-        then XWindow second, or vice-versa...
+        Select copy-and-paste interface to test first:
     </p>
-
 </div>
-<div>
-    <p>What should <?php echo $user; ?> do first?</p>
-<form action="page3.php" method="post">
 
+<div>
+<form action="page3.php" method="post">
     <span>Interface</span><br/>
     <input type="radio" name="interface" value="acp">ACP<br/>
     <input type="radio" name="interface" value="xwindow">XWindow<br/>

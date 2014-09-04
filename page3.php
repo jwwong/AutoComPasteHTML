@@ -34,8 +34,6 @@ if (!isset($_COOKIE["user"])){
 
 $user = $_COOKIE["user"];
 
-
-
 require_once("external_files.php");
 
 if (isset($_COOKIE["block"]) && isset($_COOKIE["max_blocks"])) {
@@ -66,22 +64,22 @@ if (isset($_COOKIE["block"]) && isset($_COOKIE["max_blocks"])) {
 }
 
 if (strcmp($interface, "acp")==0) {
-    $msg = "This is the instruction when using AutoComPaste Interface";
+    $msg = "To copy-and-paste using AutoComPaste, type the prefix of the given text. A list of texts matching the prefix you entered will be displayed live as you type. Use cursor/arrow keys to select the text you wish to paste from the given list";
     $acpflag = "true";
 } else {
-    $msg = "This is the instruction when using XWindow Interface";
+    $msg = "To copy-and-paste using XWindow, highlight the text you wish to copy-and-paste using yout cursor. Use keyboard shortcuts Ctrl+C to copy and Ctrl+V to paste.";
     $acpflag = "false";
 }
-
 ?>
+
 <html>
 <head>
-    <title>Experiment Run Template 1</title>
+    <title>AutoComPaste/XWindow Experiment</title>
 </head>
 <body>
 <div>
     <p>
-        There should always be an instruction before doing the actual evaluation of the interface.
+        How to use <?php echo $interface; ?>
     </p>
     <p>
        <?php echo $msg; ?>

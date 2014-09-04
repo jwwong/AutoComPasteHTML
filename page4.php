@@ -25,10 +25,6 @@ if (!isset($_COOKIE["acp"])) {
 }
 
 // checks if first interface was already tested (and subsequently, second interface)
-//if (isset($_COOKIE["done1"])){
-//    header("Location: page5.php");
-//    exit;
-//}
 
 if (isset($_COOKIE["block"]) && isset($_COOKIE["max_blocks"])) {
     $block_num = intval($_COOKIE["block"]);
@@ -53,6 +49,6 @@ if (isset($_COOKIE["block"]) && isset($_COOKIE["max_blocks"])) {
 }
 
 // sets cookie that first interface was already tested
-
-
 header("Location: page3.php");
+
+?>
