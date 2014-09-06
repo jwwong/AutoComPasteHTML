@@ -1,0 +1,225 @@
+{
+    "data": {
+        "block": 1,
+        "acp": [
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Several Windows"],
+                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Stimuli": "Early microcomputers themselves were based on a command-line interface such as CP/M, MS-DOS or AppleSoft BASIC. Throughout the 1980s and 1990s—especially after the introduction of the Apple Macintosh and Microsoft Windows—command line interfaces were replaced in popular usage by the Graphical User Interface. The command line remains in use, however, by advanced users for computer programming and batch processing."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Several Windows"],
+                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Stimuli": "Kinect sensor is a horizontal bar connected to a small base with a motorized pivot and is designed to be positioned lengthwise above or below the video display. The device features an RGB camera, depth sensor and multi-array microphone running proprietary software, which provide full-body 3D motion capture, facial recognition and voice recognition capabilities."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Several Windows"],
+                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Stimuli": "On the machine side, techniques in computer graphics, operating systems, programming languages, and development environments are relevant. On the human side, communication theory, graphic and industrial design disciplines, linguistics, social sciences, cognitive psychology, social psychology, and human factors such as computer user satisfaction are relevant. And, of course, engineering and design methods are relevant. Due to the multidisciplinary nature of HCI, people with different backgrounds contribute to its success."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Several Windows"],
+                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Stimuli": "3D scanner system called Light Coding"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Several Windows"],
+                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Stimuli": "a team of computer engineers and programmers"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Several Windows"],
+                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Stimuli": "Bulletin Board System software"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Several Windows"],
+                "Instruction": "Please copy-paste using ACP and using this sentence from one of the opened document window",
+                "Stimuli": "Sketchpad inspired Douglas Engelbart to design and develop oN-Line System at the Augmentation Research Center (ARC) at the Stanford Research Institute (SRI) during the 1960s."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Several Windows"],
+                "Instruction": "Please copy-paste using ACP and using this sentence from one of the opened document window",
+                "Stimuli": "The term connotes that, unlike other tools with only limited uses (such as a hammer, useful for driving nails, but not much else), a computer has many affordances for use and this takes place in an open-ended dialog between the user and the computer."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Several Windows"],
+                "Instruction": "Please copy-paste using ACP and using this sentence from one of the opened document window",
+                "Stimuli": "At the urging of ARPA's director, Robert Taylor, the NLS would make its first public appearance at the fall 1968 Joint Computer Conference."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "One Window"],
+                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Stimuli": "In November 2006, Microsoft released version 1.0 of Windows PowerShell (formerly codenamed Monad), which combined features of traditional Unix shells with their proprietary object-oriented .NET Framework. MinGW and Cygwin are open-source packages for Windows that offer a Unix-like CLI. Microsoft provides MKS Inc.'s ksh implementation MKS Korn shell for Windows through their Services for UNIX add-on."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "One Window"],
+                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Stimuli": "The depth sensor consists of an infrared laser projector combined with a monochrome CMOS sensor, which captures video data in 3D under any ambient light conditions. The sensing range of the depth sensor is adjustable, and Kinect software is capable of automatically calibrating the sensor based on gameplay and the player's physical environment, accommodating for the presence of furniture or other obstacles."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "One Window"],
+                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Stimuli": "The term was popularized by Stuart K. Card, Thomas P. Moran and Allen Newell in their seminal 1983 book, The Psychology of Human-Computer Interaction, although the authors first used the term in 1980, and the first known use was in 1975. The term connotes that, unlike other tools with only limited uses (such as a hammer, useful for driving nails, but not much else), a computer has many affordances for use and this takes place in an open-ended dialog between the user and the computer."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "One Window"],
+                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Stimuli": "master drawings which one could instantiate into many duplicates"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "One Window"],
+                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Stimuli": "the introduction of a complete computer hardware—software system"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "One Window"],
+                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Stimuli": "software technology enables advanced gesture recognition"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "One Window"],
+                "Instruction": "Please copy-paste using ACP and using this sentence from one of the opened document window",
+                "Stimuli": "Sutherland wrote in his thesis that Bolt, Beranek and Newman had a similar program and T-Square was developed by Peter Samson and one or more fellow MIT students in 1962, both for the PDP-1."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "One Window"],
+                "Instruction": "Please copy-paste using ACP and using this sentence from one of the opened document window",
+                "Stimuli": "So instead of a human communicating with another human over a teleprinter, a human communicated with a computer."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "One Window"],
+                "Instruction": "Please copy-paste using ACP and using this sentence from one of the opened document window",
+                "Stimuli": "Because human–computer interaction studies a human and a machine in communication, it draws from supporting knowledge on both the machine and the human side."
+            }
+        ],
+        "xwindow": [
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Several Windows"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "Early microcomputers themselves were based on a command-line interface such as CP/M, MS-DOS or AppleSoft BASIC. Throughout the 1980s and 1990s—especially after the introduction of the Apple Macintosh and Microsoft Windows—command line interfaces were replaced in popular usage by the Graphical User Interface. The command line remains in use, however, by advanced users for computer programming and batch processing."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Several Windows"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "Kinect sensor is a horizontal bar connected to a small base with a motorized pivot and is designed to be positioned lengthwise above or below the video display. The device features an RGB camera, depth sensor and multi-array microphone running proprietary software, which provide full-body 3D motion capture, facial recognition and voice recognition capabilities."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "Several Windows"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "On the machine side, techniques in computer graphics, operating systems, programming languages, and development environments are relevant. On the human side, communication theory, graphic and industrial design disciplines, linguistics, social sciences, cognitive psychology, social psychology, and human factors such as computer user satisfaction are relevant. And, of course, engineering and design methods are relevant. Due to the multidisciplinary nature of HCI, people with different backgrounds contribute to its success."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Several Windows"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "3D scanner system called Light Coding"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Several Windows"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "a team of computer engineers and programmers"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "Several Windows"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "Bulletin Board System software"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Several Windows"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "Sketchpad inspired Douglas Engelbart to design and develop oN-Line System at the Augmentation Research Center (ARC) at the Stanford Research Institute (SRI) during the 1960s."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Several Windows"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "The term connotes that, unlike other tools with only limited uses (such as a hammer, useful for driving nails, but not much else), a computer has many affordances for use and this takes place in an open-ended dialog between the user and the computer."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "Several Windows"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "At the urging of ARPA's director, Robert Taylor, the NLS would make its first public appearance at the fall 1968 Joint Computer Conference."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "One Window"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "In November 2006, Microsoft released version 1.0 of Windows PowerShell (formerly codenamed Monad), which combined features of traditional Unix shells with their proprietary object-oriented .NET Framework. MinGW and Cygwin are open-source packages for Windows that offer a Unix-like CLI. Microsoft provides MKS Inc.'s ksh implementation MKS Korn shell for Windows through their Services for UNIX add-on."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "One Window"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "The depth sensor consists of an infrared laser projector combined with a monochrome CMOS sensor, which captures video data in 3D under any ambient light conditions. The sensing range of the depth sensor is adjustable, and Kinect software is capable of automatically calibrating the sensor based on gameplay and the player's physical environment, accommodating for the presence of furniture or other obstacles."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Paragraph", "One Window"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "The term was popularized by Stuart K. Card, Thomas P. Moran and Allen Newell in their seminal 1983 book, The Psychology of Human-Computer Interaction, although the authors first used the term in 1980, and the first known use was in 1975. The term connotes that, unlike other tools with only limited uses (such as a hammer, useful for driving nails, but not much else), a computer has many affordances for use and this takes place in an open-ended dialog between the user and the computer."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "One Window"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "master drawings which one could instantiate into many duplicates"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "One Window"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "the introduction of a complete computer hardware—software system"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "One Window"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "software technology enables advanced gesture recognition"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "One Window"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "Sutherland wrote in his thesis that Bolt, Beranek and Newman had a similar program and T-Square was developed by Peter Samson and one or more fellow MIT students in 1962, both for the PDP-1."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "One Window"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "So instead of a human communicating with another human over a teleprinter, a human communicated with a computer."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Sentence", "One Window"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "Because human–computer interaction studies a human and a machine in communication, it draws from supporting knowledge on both the machine and the human side."
+            }
+        ]
+    }
+}

@@ -44,7 +44,13 @@ if (isset($_COOKIE["block"]) && isset($_COOKIE["max_blocks"])) {
     $block_num = $block_num/2;
     $block_num = round($block_num, 0, PHP_ROUND_HALF_UP);
 
-    $tasklist = $tasklist."_".$block_num;
+    $taskIndex = $user;
+    if ($taskIndex > 3) {
+        $taskIndex = $taskIndex - 3;
+    }
+    $taskIndex = $block_num + (($taskIndex-1)*3);
+
+    $tasklist = $tasklist."_".$taskIndex; // HERE!!!!!!!!!!!!1
 
     if (($modular_num%2)==1) {
         if (isset ($_COOKIE["interface"])) {

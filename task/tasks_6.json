@@ -4,24 +4,6 @@
         "acp": [
             {
                 "title": "Copy-paste Experiment",
-                "var": ["Phrase", "Several Windows"],
-                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
-                "Stimuli": "interfaces were replaced"
-            },
-            {
-                "title": "Copy-paste Experiment",
-                "var": ["Phrase", "Several Windows"],
-                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
-                "Stimuli": "a system that can interpret specific gestures"
-            },
-            {
-                "title": "Copy-paste Experiment",
-                "var": ["Phrase", "Several Windows"],
-                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
-                "Stimuli": "people with different backgrounds contribute to its success"
-            },
-            {
-                "title": "Copy-paste Experiment",
                 "var": ["Sentence", "Several Windows"],
                 "Instruction": "Please copy-paste using ACP and using this sentence from one of the opened document window",
                 "Stimuli": "The device features an RGB camera, depth sensor and multi-array microphone running proprietary software, which provide full-body 3D motion capture, facial recognition and voice recognition capabilities."
@@ -58,21 +40,21 @@
             },
             {
                 "title": "Copy-paste Experiment",
-                "var": ["Phrase", "One Window"],
+                "var": ["Phrase", "Several Windows"],
                 "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
-                "Stimuli": "sensing range of the depth sensor"
+                "Stimuli": "interfaces were replaced"
             },
             {
                 "title": "Copy-paste Experiment",
-                "var": ["Phrase", "One Window"],
+                "var": ["Phrase", "Several Windows"],
                 "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
-                "Stimuli": "a numerical control language"
+                "Stimuli": "a system that can interpret specific gestures"
             },
             {
                 "title": "Copy-paste Experiment",
-                "var": ["Phrase", "One Window"],
+                "var": ["Phrase", "Several Windows"],
                 "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
-                "Stimuli": "Fall Joint Computer Conference"
+                "Stimuli": "people with different backgrounds contribute to its success"
             },
             {
                 "title": "Copy-paste Experiment",
@@ -109,29 +91,29 @@
                 "var": ["Paragraph", "One Window"],
                 "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
                 "Stimuli": "Since 2001, the Macintosh operating system is based on a variation of Unix called Darwin. On these computers, users can access a Unix-like command-line interface called Terminal found in the Applications Utilities folder. This terminal uses bash by default."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "One Window"],
+                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Stimuli": "sensing range of the depth sensor"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "One Window"],
+                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Stimuli": "a numerical control language"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "One Window"],
+                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Stimuli": "Fall Joint Computer Conference"
             }
         ],
         "xwindow": [
             {
                 "title": "Copy-paste Experiment",
-                "var": ["Phrase", "Several Windows"],
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
-                "Stimuli": "interfaces were replaced"
-            },
-            {
-                "title": "Copy-paste Experiment",
-                "var": ["Phrase", "Several Windows"],
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
-                "Stimuli": "a system that can interpret specific gestures"
-            },
-            {
-                "title": "Copy-paste Experiment",
-                "var": ["Phrase", "Several Windows"],
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
-                "Stimuli": "people with different backgrounds contribute to its success"
-            },
-            {
-                "title": "Copy-paste Experiment",
                 "var": ["Sentence", "Several Windows"],
                 "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
                 "Stimuli": "The device features an RGB camera, depth sensor and multi-array microphone running proprietary software, which provide full-body 3D motion capture, facial recognition and voice recognition capabilities."
@@ -168,21 +150,21 @@
             },
             {
                 "title": "Copy-paste Experiment",
-                "var": ["Phrase", "One Window"],
+                "var": ["Phrase", "Several Windows"],
                 "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
-                "Stimuli": "sensing range of the depth sensor"
+                "Stimuli": "interfaces were replaced"
             },
             {
                 "title": "Copy-paste Experiment",
-                "var": ["Phrase", "One Window"],
+                "var": ["Phrase", "Several Windows"],
                 "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
-                "Stimuli": "a numerical control language"
+                "Stimuli": "a system that can interpret specific gestures"
             },
             {
                 "title": "Copy-paste Experiment",
-                "var": ["Phrase", "One Window"],
+                "var": ["Phrase", "Several Windows"],
                 "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
-                "Stimuli": "Fall Joint Computer Conference"
+                "Stimuli": "people with different backgrounds contribute to its success"
             },
             {
                 "title": "Copy-paste Experiment",
@@ -219,6 +201,24 @@
                 "var": ["Paragraph", "One Window"],
                 "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
                 "Stimuli": "Since 2001, the Macintosh operating system is based on a variation of Unix called Darwin. On these computers, users can access a Unix-like command-line interface called Terminal found in the Applications Utilities folder. This terminal uses bash by default."
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "One Window"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "sensing range of the depth sensor"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "One Window"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "a numerical control language"
+            },
+            {
+                "title": "Copy-paste Experiment",
+                "var": ["Phrase", "One Window"],
+                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Stimuli": "Fall Joint Computer Conference"
             }
         ]
     }

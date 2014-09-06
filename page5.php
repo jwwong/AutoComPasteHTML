@@ -12,7 +12,6 @@ if (!isset($_COOKIE["user"])){
     header("Location: index.php?message=".$message);
     exit;
 }
-
 ?>
 
 <html>
@@ -25,8 +24,8 @@ if (!isset($_COOKIE["user"])){
         End of Experiment
     </p>
 
-
-    <a href="generate2.php" target="_blank">Generate File</a>
+    <!-- <a href="generate2.php" target="_blank">Generate File</a>
+    -->
 </div>
 
 

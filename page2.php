@@ -32,7 +32,7 @@ $user = $_COOKIE["user"];
 
 // SET FOR BLOCKS HERE!!!
 
-$max_blocks = 3;
+$max_blocks = 1;
 
 setcookie("max_blocks", strval($max_blocks), time()+(3600*3));
 setcookie("block", strval(0), time()+(3600*3));

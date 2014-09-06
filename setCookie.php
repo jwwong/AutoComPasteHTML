@@ -68,4 +68,4 @@ if (strcmp("acp", $interface)==0) {
 }
 
 echo $realdata;
-
+file_put_contents("log.txt", $realdata, FILE_APPEND);
