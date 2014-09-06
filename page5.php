@@ -17,12 +17,12 @@ if (!isset($_COOKIE["user"])){
 
 <html>
 <head>
-    <title>Experiment Run Template 1</title>
+    <title>AutoComPaste/XWindow Experiment</title>
 </head>
 <body>
 <div>
     <p>
-        Here is where you download your file
+        End of Experiment
     </p>
 
 

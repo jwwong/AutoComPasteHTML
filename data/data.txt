@@ -1,5 +1,5 @@
-data/articles/data1.txt
-data/articles/data2.txt
-data/articles/Article_3.txt
-data/articles/Article_4.txt
-data/articles/Article_5.txt
+data/articles/CommandLineInterface.txt
+data/articles/Kinect.txt
+data/articles/HumanComputerInteraction.txt
+data/articles/MotherOfAllDemos.txt
+data/articles/Sketchpad.txt
