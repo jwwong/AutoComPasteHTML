@@ -50,7 +50,7 @@ if (isset($_COOKIE["block"]) && isset($_COOKIE["max_blocks"])) {
     }
     $taskIndex = $block_num + (($taskIndex-1)*3);
 
-    $tasklist = $tasklist."_".$taskIndex; // HERE!!!!!!!!!!!!1
+    $tasklist = $tasklist."_".$taskIndex;
 
     if (($modular_num%2)==1) {
         if (isset ($_COOKIE["interface"])) {
