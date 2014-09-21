@@ -6,21 +6,21 @@
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using ACP and using this paragraph from one of the opened document window",
                 "Stimuli": "For example, the graphical user interface (GUI) was derived from the Sketchpad as well as modern object oriented programming. Ivan Sutherland demonstrated with it that computer graphics could be used for both artistic and technical purposes in addition to showing a novel method of human-computer interaction."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using ACP and using this paragraph from one of the opened document window",
                 "Stimuli": "The Association for Computing Machinery defines human-computer interaction as a discipline concerned with the design, evaluation and implementation of interactive computing systems for human use and with the study of major phenomena surrounding them. An important facet of HCI is the securing of user satisfaction (or simply End User Computing Satisfaction). Because human–computer interaction studies a human and a machine in communication, it draws from supporting knowledge on both the machine and the human side."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using ACP and using this paragraph from one of the opened document window",
                 "Stimuli": "Over the course of six years, with the funding help of both NASA and ARPA, his team went about putting together all the elements that would make such a computer system a reality. At the urging of ARPA's director, Robert Taylor, the NLS would make its first public appearance at the fall 1968 Joint Computer Conference."
             },
             {
@@ -35,7 +35,7 @@
                 "var": ["Phrase", "Several Windows"],
                 "SeveralWindows": 1,
                 "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
-                "Stimuli": "a system that can interpret specific gestures"
+                "Stimuli": "system that can interpret specific gestures"
             },
             {
                 "title": "Copy-paste Experiment",
@@ -69,21 +69,21 @@
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using ACP and using this paragraph from one of the opened document window",
                 "Stimuli": "Humans interact with computers in many ways, and the interface between humans and the computers they use is crucial to facilitating this interaction. Desktop applications, internet browsers, handheld computers, and computer kiosks make use of the prevalent Graphical User Interfaces (GUI) of today. Voice User Interfaces (VUI) are used for speech recognition and synthesising systems, and the emerging multi-modal and gestalt User Interfaces (gUI) allow humans to engage with embodied character agents in a way that cannot be achieved with other interface paradigms."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using ACP and using this paragraph from one of the opened document window",
                 "Stimuli": "Sketchpad (aka Robot Draftsman) was a revolutionary computer program written by Ivan Sutherland in 1963 in the course of his PhD thesis, for which he received the Turing Award in 1988, and the Kyoto Prize in 2012. It pioneered the way for human–computer interaction (HCI). Sketchpad is considered to be the ancestor of modern computer-aided design (CAD) programs as well as a major breakthrough in the development of computer graphics in general."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using ACP and using this paragraph from one of the opened document window",
                 "Stimuli": "Since 2001, the Macintosh operating system is based on a variation of Unix called Darwin. On these computers, users can access a Unix-like command-line interface called Terminal found in the Applications Utilities folder. This terminal uses bash by default."
             },
             {
@@ -98,7 +98,7 @@
                 "var": ["Phrase", "One Window"],
                 "SeveralWindows": 0,
                 "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
-                "Stimuli": "a numerical control language"
+                "Stimuli": "numerical control language"
             },
             {
                 "title": "Copy-paste Experiment",
@@ -134,21 +134,21 @@
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this paragraph from one of the opened document window",
                 "Stimuli": "For example, the graphical user interface (GUI) was derived from the Sketchpad as well as modern object oriented programming. Ivan Sutherland demonstrated with it that computer graphics could be used for both artistic and technical purposes in addition to showing a novel method of human-computer interaction."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this paragraph from one of the opened document window",
                 "Stimuli": "The Association for Computing Machinery defines human-computer interaction as a discipline concerned with the design, evaluation and implementation of interactive computing systems for human use and with the study of major phenomena surrounding them. An important facet of HCI is the securing of user satisfaction (or simply End User Computing Satisfaction). Because human–computer interaction studies a human and a machine in communication, it draws from supporting knowledge on both the machine and the human side."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this paragraph from one of the opened document window",
                 "Stimuli": "Over the course of six years, with the funding help of both NASA and ARPA, his team went about putting together all the elements that would make such a computer system a reality. At the urging of ARPA's director, Robert Taylor, the NLS would make its first public appearance at the fall 1968 Joint Computer Conference."
             },
             {
@@ -163,7 +163,7 @@
                 "var": ["Phrase", "Several Windows"],
                 "SeveralWindows": 1,
                 "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
-                "Stimuli": "a system that can interpret specific gestures"
+                "Stimuli": "system that can interpret specific gestures"
             },
             {
                 "title": "Copy-paste Experiment",
@@ -176,42 +176,42 @@
                 "title": "Copy-paste Experiment",
                 "var": ["Sentence", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this sentence from one of the opened document window",
                 "Stimuli": "The device features an RGB camera, depth sensor and multi-array microphone running proprietary software, which provide full-body 3D motion capture, facial recognition and voice recognition capabilities."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Sentence", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this sentence from one of the opened document window",
                 "Stimuli": "The 90-minute presentation essentially demonstrated almost all the fundamental elements of modern personal computing: windows, hypertext, graphics, efficient navigation and command input, video conferencing, the computer mouse, word processing, dynamic file linking, revision control, and a collaborative real-time editor (collaborative work)."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Sentence", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this sentence from one of the opened document window",
                 "Stimuli": "Early computer systems often used teleprinter machines as the means of interaction with a human operator."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this paragraph from one of the opened document window",
                 "Stimuli": "Humans interact with computers in many ways, and the interface between humans and the computers they use is crucial to facilitating this interaction. Desktop applications, internet browsers, handheld computers, and computer kiosks make use of the prevalent Graphical User Interfaces (GUI) of today. Voice User Interfaces (VUI) are used for speech recognition and synthesising systems, and the emerging multi-modal and gestalt User Interfaces (gUI) allow humans to engage with embodied character agents in a way that cannot be achieved with other interface paradigms."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this paragraph from one of the opened document window",
                 "Stimuli": "Sketchpad (aka Robot Draftsman) was a revolutionary computer program written by Ivan Sutherland in 1963 in the course of his PhD thesis, for which he received the Turing Award in 1988, and the Kyoto Prize in 2012. It pioneered the way for human–computer interaction (HCI). Sketchpad is considered to be the ancestor of modern computer-aided design (CAD) programs as well as a major breakthrough in the development of computer graphics in general."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this paragraph from one of the opened document window",
                 "Stimuli": "Since 2001, the Macintosh operating system is based on a variation of Unix called Darwin. On these computers, users can access a Unix-like command-line interface called Terminal found in the Applications Utilities folder. This terminal uses bash by default."
             },
             {
@@ -226,7 +226,7 @@
                 "var": ["Phrase", "One Window"],
                 "SeveralWindows": 0,
                 "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
-                "Stimuli": "a numerical control language"
+                "Stimuli": "numerical control language"
             },
             {
                 "title": "Copy-paste Experiment",
@@ -239,21 +239,21 @@
                 "title": "Copy-paste Experiment",
                 "var": ["Sentence", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this sentence from one of the opened document window",
                 "Stimuli": "So instead of a human communicating with another human over a teleprinter, a human communicated with a computer."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Sentence", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this sentence from one of the opened document window",
                 "Stimuli": "Kinect sensor's microphone array enables Xbox 360 to conduct acoustic source localization and ambient noise suppression, allowing for things such as headset-free party chat over Xbox Live."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Sentence", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this sentence from one of the opened document window",
                 "Stimuli": "On the human side, communication theory, graphic and industrial design disciplines, linguistics, social sciences, cognitive psychology, social psychology, and human factors such as computer user satisfaction are relevant."
             }
         ]

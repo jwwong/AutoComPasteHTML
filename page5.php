@@ -21,11 +21,10 @@ if (!isset($_COOKIE["user"])){
 <body>
 <div>
     <p>
-        End of Experiment
+        End of Experiment! Well done~
     </p>
 
-    <!-- <a href="generate2.php" target="_blank">Generate File</a>
-    -->
+    <!-- <a href="generate2.php" target="_blank">Generate File</a> -->
 </div>
 
 

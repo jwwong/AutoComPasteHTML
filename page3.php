@@ -76,11 +76,11 @@ if (strcmp($interface, "acp")==0) {
     $msg = "To copy-and-paste using XWindow, highlight the text you wish to copy-and-paste using yout cursor. Use keyboard shortcuts Ctrl+C to copy and Ctrl+V to paste.";
     $acpflag = "false";
 }
-?>
 
+?>
 <html>
 <head>
-    <title>AutoComPaste/XWindow Experiment</title>
+    <title>Experiment Run Template 1</title>
 </head>
 <body>
 <div>

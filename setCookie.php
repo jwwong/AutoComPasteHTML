@@ -1,4 +1,6 @@
 <?php
+// IMPLEMENT STRING COMP HERE
+
 /**
  * Created by JetBrains PhpStorm.
  * User: tjmonsi
@@ -25,31 +27,44 @@ header("Connection: close");
 
 $realdata = "";
 
-//var_dump($_POST);
-//var_dump($_COOKIE);
-
 if (strcmp("acp", $interface)==0) {
     $data = json_decode($value, true);
 
     foreach ($data["data"] as $k => $v) {
         $text = "";
         $val = $v["data"];
+        $stimuli = "";
+        $compare_result = 2;
         foreach ($val as $x=> $y) {
             if (is_array($y)) {
                 foreach ($y as $w) {
                     $text = $text.$w."; ";
                 }
             } else {
+                $y = trim($y);
                 $word = str_replace("\n", "", str_replace("\r", "", $y));
+                if (strcmp("stimuli", $x) == 0) {
+                     $stimuli = $word;
+                }
+                if (strcmp("user_response", $x) == 0) {
+                    if (strcmp($word, $stimuli) == 0) {
+                        $compare_result = 1;
+                    } else {
+                        $compare_result = 0;
+                    }
+                }
                 $text = $text.$word."; ";
             }
         }
-        $realdata = $realdata.$text."\n";
+        $realdata = $realdata.$text;
+        $realdata = $realdata.strval($compare_result).";\n";
     }
 
 } elseif (strcmp("xwindow", $interface)==0){
     $data = json_decode($value, true);
     $text = "";
+    $stimuli = "";
+    $compare_result = 2;
     foreach ($data["data"] as $k => $v) {
         $text = "";
         $val = $v["data"];
@@ -59,13 +74,29 @@ if (strcmp("acp", $interface)==0) {
                     $text = $text.$w."; ";
                 }
             } else {
+                $y = trim($y);
                 $word = str_replace("\n", "", str_replace("\r", "", $y));
+                if (strcmp("stimuli", $x) == 0) {
+                     $stimuli = $word;
+                }
+                if (strcmp("user_response", $x) == 0) {
+                    if (strcmp($word, $stimuli) == 0) {
+                        $compare_result = 1;
+                    } else {
+                        $compare_result = 0;
+                    }
+                }
                 $text = $text.$word."; ";
             }
         }
-        $realdata = $realdata.$text."\n";
+        $realdata = $realdata.$text;
+        $realdata = $realdata.strval($compare_result).";\n";
     }
 }
-
 echo $realdata;
-file_put_contents("log.txt", $realdata, FILE_APPEND);
+
+$filename = "log/log.txt";
+if(isset($_COOKIE["user"])) {
+    $filename = "log/log_".$_COOKIE["user"].".txt";
+}
+file_put_contents($filename, $realdata, FILE_APPEND);

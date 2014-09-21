@@ -6,21 +6,21 @@
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using ACP and using this paragraph from one of the opened document window",
                 "Stimuli": "At launch, voice recognition was only made available in Japan, United Kingdom, Canada and United States. Mainland Europe received the feature later in spring 2011. Currently voice recognition is supported in Australia, Canada, France, Germany, Ireland, Italy, Japan, Mexico, New Zealand, United Kingdom and United States. Kinect sensor's microphone array enables Xbox 360 to conduct acoustic source localization and ambient noise suppression, allowing for things such as headset-free party chat over Xbox Live."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using ACP and using this paragraph from one of the opened document window",
                 "Stimuli": "The conference session was presented under the title A research center for augmenting human intellect. Approximately 1,000 computer professionals were in attendance at Brooks Hall in San Francisco to witness the presentation. Notable attendees in the audience included Alan Kay, Charles Irby and Andy van Dam, as well as Bob Sproull."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using ACP and using this paragraph from one of the opened document window",
                 "Stimuli": "The command-line interface evolved from a form of dialog once conducted by humans over teleprinter (TTY) machines, in which human operators remotely exchanged information, usually one line of text at a time. Early computer systems often used teleprinter machines as the means of interaction with a human operator. The computer became one end of the human-to-human teleprinter model. So instead of a human communicating with another human over a teleprinter, a human communicated with a computer."
             },
             {
@@ -69,21 +69,21 @@
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using ACP and using this paragraph from one of the opened document window",
                 "Stimuli": "Kinect builds on software technology developed internally by Rare, a subsidiary of Microsoft Game Studios owned by Microsoft, and on range camera technology by Israeli developer PrimeSense, which developed a system that can interpret specific gestures, making completely hands-free control of electronic devices possible by using an infrared projector and camera and a special microchip to track the movement of objects and individuals in three dimensions. This 3D scanner system called Light Coding employs a variant of image-based 3D reconstruction."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using ACP and using this paragraph from one of the opened document window",
                 "Stimuli": "The clever way the program organized its geometric data pioneered the use of objects and instances in computing and pointed forward to object oriented programming. The main idea was to have master drawings which one could instantiate into many duplicates. If the user changed the master drawing, all the instances would change as well. Another major invention in Sketchpad was that it let the user easily constrain geometric properties in the drawing—for instance, the length of a line or the angle between two lines could be fixed."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using ACP and using this paragraph from one of the opened document window",
                 "Stimuli": "Engelbart's presentation was the first to publicly demonstrate all these elements in a single system. The demonstration was highly influential and spawned similar projects at Xerox PARC in the early 1970s. The underlying technologies influenced both the Apple Macintosh and Microsoft Windows graphical user interface operating systems in the 1980s and 1990s."
             },
             {
@@ -91,21 +91,21 @@
                 "var": ["Phrase", "One Window"],
                 "SeveralWindows": 0,
                 "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
-                "Stimuli": "the user and the computer"
+                "Stimuli": "user and the computer"
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Phrase", "One Window"],
                 "SeveralWindows": 0,
                 "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
-                "Stimuli": "a novel method of human-computer interaction"
+                "Stimuli": "novel method of human-computer interaction"
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Phrase", "One Window"],
                 "SeveralWindows": 0,
                 "Instruction": "Please copy-paste using ACP and using this phrase from one of the opened document window",
-                "Stimuli": "a human communicated with a computer"
+                "Stimuli": "human communicated with a computer"
             },
             {
                 "title": "Copy-paste Experiment",
@@ -134,21 +134,21 @@
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this paragraph from one of the opened document window",
                 "Stimuli": "At launch, voice recognition was only made available in Japan, United Kingdom, Canada and United States. Mainland Europe received the feature later in spring 2011. Currently voice recognition is supported in Australia, Canada, France, Germany, Ireland, Italy, Japan, Mexico, New Zealand, United Kingdom and United States. Kinect sensor's microphone array enables Xbox 360 to conduct acoustic source localization and ambient noise suppression, allowing for things such as headset-free party chat over Xbox Live."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this paragraph from one of the opened document window",
                 "Stimuli": "The conference session was presented under the title A research center for augmenting human intellect. Approximately 1,000 computer professionals were in attendance at Brooks Hall in San Francisco to witness the presentation. Notable attendees in the audience included Alan Kay, Charles Irby and Andy van Dam, as well as Bob Sproull."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this paragraph from one of the opened document window",
                 "Stimuli": "The command-line interface evolved from a form of dialog once conducted by humans over teleprinter (TTY) machines, in which human operators remotely exchanged information, usually one line of text at a time. Early computer systems often used teleprinter machines as the means of interaction with a human operator. The computer became one end of the human-to-human teleprinter model. So instead of a human communicating with another human over a teleprinter, a human communicated with a computer."
             },
             {
@@ -176,42 +176,42 @@
                 "title": "Copy-paste Experiment",
                 "var": ["Sentence", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this sentence from one of the opened document window",
                 "Stimuli": "The command line remains in use, however, by advanced users for computer programming and batch processing."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Sentence", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this sentence from one of the opened document window",
                 "Stimuli": "Described by Microsoft personnel as the primary innovation of Kinect, the software technology enables advanced gesture recognition, facial recognition and voice recognition."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Sentence", "Several Windows"],
                 "SeveralWindows": 1,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this sentence from one of the opened document window",
                 "Stimuli": "Human–computer interaction (HCI) involves the study, planning, design and uses of the interaction between people (users) and computers."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this paragraph from one of the opened document window",
                 "Stimuli": "Kinect builds on software technology developed internally by Rare, a subsidiary of Microsoft Game Studios owned by Microsoft, and on range camera technology by Israeli developer PrimeSense, which developed a system that can interpret specific gestures, making completely hands-free control of electronic devices possible by using an infrared projector and camera and a special microchip to track the movement of objects and individuals in three dimensions. This 3D scanner system called Light Coding employs a variant of image-based 3D reconstruction."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this paragraph from one of the opened document window",
                 "Stimuli": "The clever way the program organized its geometric data pioneered the use of objects and instances in computing and pointed forward to object oriented programming. The main idea was to have master drawings which one could instantiate into many duplicates. If the user changed the master drawing, all the instances would change as well. Another major invention in Sketchpad was that it let the user easily constrain geometric properties in the drawing—for instance, the length of a line or the angle between two lines could be fixed."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Paragraph", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this paragraph from one of the opened document window",
                 "Stimuli": "Engelbart's presentation was the first to publicly demonstrate all these elements in a single system. The demonstration was highly influential and spawned similar projects at Xerox PARC in the early 1970s. The underlying technologies influenced both the Apple Macintosh and Microsoft Windows graphical user interface operating systems in the 1980s and 1990s."
             },
             {
@@ -219,41 +219,41 @@
                 "var": ["Phrase", "One Window"],
                 "SeveralWindows": 0,
                 "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
-                "Stimuli": "the user and the computer"
+                "Stimuli": "user and the computer"
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Phrase", "One Window"],
                 "SeveralWindows": 0,
                 "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
-                "Stimuli": "a novel method of human-computer interaction"
+                "Stimuli": "novel method of human-computer interaction"
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Phrase", "One Window"],
                 "SeveralWindows": 0,
                 "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
-                "Stimuli": "a human communicated with a computer"
+                "Stimuli": "human communicated with a computer"
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Sentence", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this sentence from one of the opened document window",
                 "Stimuli": "He wanted to turn Vannevar Bush's idea for a Memex machine into reality, where a machine used interactively by one person could augment their intelligence."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Sentence", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this sentence from one of the opened document window",
                 "Stimuli": "According to information supplied to retailers, Kinect is capable of simultaneously tracking up to six people, including two active players for motion analysis with a feature extraction of 20 joints per player."
             },
             {
                 "title": "Copy-paste Experiment",
                 "var": ["Sentence", "One Window"],
                 "SeveralWindows": 0,
-                "Instruction": "Please copy-paste using XWindow and using this phrase from one of the opened document window",
+                "Instruction": "Please copy-paste using XWindow and using this sentence from one of the opened document window",
                 "Stimuli": "Since 2001, the Macintosh operating system is based on a variation of Unix called Darwin."
             }
         ]

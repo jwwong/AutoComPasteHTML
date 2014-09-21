@@ -7,6 +7,11 @@
  * To change this template use File | Settings | File Templates.
  */
 
+if (isset ($_COOKIE["interface"])) {
+    unset($_COOKIE["interface"]);
+    $res = setcookie("interface", '', time()-3600);
+}
+
 ?>
 <html>
 <head>
